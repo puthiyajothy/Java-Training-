@@ -1,3 +1,7 @@
 .git
 .metadata
 .sonarlint
+.setting
+target
+.classpath
+.project
